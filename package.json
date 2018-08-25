@@ -1,0 +1,29 @@
+{
+  "name": "fullstack_challenge_server",
+  "version": "1.0.0",
+  "description": "BarstoolSports > fullstack-challenge > The Boxscore Challenge  > fullstack-challenge-server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GJBFullstackDev/fullstack-challenge-server.git"
+  },
+  "keywords": [
+    "GJB",
+    "GJBFullstackDev",
+    "BarstoolSports",
+    "fullstack-challenge",
+    "fullstack-challenge-server",
+    "The",
+    "Boxscore",
+    "Challenge"
+  ],
+  "author": "GJBFullstackDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GJBFullstackDev/fullstack-challenge-server/issues"
+  },
+  "homepage": "https://github.com/GJBFullstackDev/fullstack-challenge-server#readme"
+}
